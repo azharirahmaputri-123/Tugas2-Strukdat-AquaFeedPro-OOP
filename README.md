@@ -14,7 +14,7 @@ Sistem ini mendukung berbagai tipe dispenser pakan (*feeders*) yang disesuaikan 
 ## 📊 2. Class Diagram
 Rancangan arsitektur sistem menggunakan class diagram:
 
-![Class Diagram](./assets/Screenshot%202026-03-26%20134156.png)
+![Class Diagram](./assets/Int%20Amount%20Flow-2026-03-26-063940.png)
 
 ---
 
@@ -38,4 +38,5 @@ Berbeda dengan sistem standar, **AquaFeed Pro** menonjolkan fitur **"Smart Maint
 ## 📸 5. Screenshot Output
 Berikut adalah hasil eksekusi program pada terminal:
 
-![Screenshot Output](./assets/Int%20Amount%20Flow-2026-03-26-063940.png)
+![Screenshot Output](./assets/Screenshot%202026-03-26%20134156.png)
+
